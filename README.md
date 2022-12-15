@@ -1,7 +1,7 @@
 ## Olá! Sou o Bruno Pimenta 👋
 
 - 🔭 Atualmente trabalho Desenvolvedor Estagiário
-- 🌱 Estudando TypeScript e Angular
+- 🌱 Estudando .Net e Java
 - 😄 Pronouns: ele/dele
 
 <div>
