@@ -1,6 +1,6 @@
 ## Olá! Sou o Bruno Pimenta 👋
 
-- 🔭 Atualmente trabalho como suporte computacional
+- 🔭 Atualmente trabalho Desenvolvedor Estagiário
 - 🌱 Estudando TypeScript e Angular
 - 😄 Pronouns: ele/dele
 
