@@ -1,8 +1,7 @@
 ## Olá! Sou o Bruno Pimenta 👋
 
-- 🔭 Atualmente trabalho Desenvolvedor Estagiário
-- 🌱 Estudando .Net e Java
-- 😄 Pronouns: ele/dele
+- 🔭 Dev
+- 🌱 Estudando .Net, Java, JS e Python
 
 <div>
   <a href="https://github.com/brunospimenta">
